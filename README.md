@@ -84,6 +84,44 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **Result:**
 SUCCESSFULLY EXECUTED
 
+**OR GATE**
+ 
+ **PROGRAM**
+
+![Screenshot 2024-03-20 134857](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/19aa4eb5-6304-4593-8445-60419b91e60c)
+
+**Logic symbol**
+
+![Screenshot 2024-03-20 135711](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/d0bc0b9a-baad-492a-8b49-1233e3a6e548)
+
+
+**RTL realization Output:**
+
+![Screenshot 2024-03-20 135553](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/630faa2d-b191-4696-99aa-1a5f93785712)
+
+**Result:**
+SUCCESSFULLY EXECUTED
+
+**NOT GATE**
+ 
+ **PROGRAM**
+
+![Screenshot 2024-03-20 141508](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/2618d33b-d7dc-4ef2-a24b-e9c7a8747b52)
+
+**Logic symbol**
+
+![Screenshot 2024-03-20 140750](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/5a58aa29-ba6d-4090-8ef1-ba3c3de3f0da)
+
+**RTL realization Output:**
+
+![Screenshot 2024-03-20 141122](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/e848eb63-03b6-4d78-95c7-47013243353d)
+
+**Result:**
+SUCCESSFULLY EXECUTED
+
+
+
+
 
 
 
