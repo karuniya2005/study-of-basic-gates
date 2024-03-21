@@ -64,8 +64,8 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by:KARUNIYA M
- RegisterNumber:212223240068
+ ## Developed by:KARUNIYA M
+ ## RegisterNumber:212223240068
  
  **AND GATE**
  
@@ -139,7 +139,62 @@ SUCCESSFULLY EXECUTED
 **Result:**
 SUCCESSFULLY EXECUTED
 
+**NOR GATE**
+ 
+ **PROGRAM**
+ 
+![Screenshot 2024-03-20 143504](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/c40761e8-44f0-485c-a5b2-0f4c46860a3f)
 
+**Logic symbol**
+
+![Screenshot 2024-03-20 143445](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/2ad3a83c-f8f9-4e58-ab9b-96ff3584f3eb)
+
+**RTL realization Output:**
+
+![Screenshot 2024-03-20 143709](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/4ee516c2-64e3-465c-ada8-5918d2d63485)
+
+**Result:**
+SUCCESSFULLY EXECUTED
+
+**XNOR GATE**
+ 
+ **PROGRAM**
+
+![Screenshot 2024-03-21 152202](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/d32f2a6c-9da0-41cd-8f63-11b611bddd5e)
+
+
+**Logic symbol**
+
+![Screenshot 2024-03-21 152213](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/8b90ad0a-b71f-4bff-9a9d-49e575202be5)
+
+**RTL realization Output:**
+
+![Screenshot 2024-03-21 153531](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/7d9217ff-c6db-4ff6-b5ac-a6c97ef63ca0)
+
+
+**Result:**
+SUCCESSFULLY EXECUTED
+
+
+**XOR GATE**
+ 
+ **PROGRAM**
+
+![Screenshot 2024-03-21 151352](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/39b84519-e8aa-42dd-8691-66400d391556)
+
+
+**Logic symbol**
+
+![Screenshot 2024-03-21 151335](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/a45a815c-7f70-4ccd-a56f-7a117ecac277)
+
+
+
+**RTL realization Output:**
+
+![Screenshot 2024-03-21 151532](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/4638b5a4-3e1b-483f-82fd-1e01f35df260)
+
+**Result:**
+SUCCESSFULLY EXECUTED
 
 
 
