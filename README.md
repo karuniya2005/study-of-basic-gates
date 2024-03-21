@@ -119,6 +119,25 @@ SUCCESSFULLY EXECUTED
 **Result:**
 SUCCESSFULLY EXECUTED
 
+**NAND GATE**
+ 
+ **PROGRAM**
+
+![Screenshot 2024-03-20 142736](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/1ec3698b-44ae-4af2-9dee-ce011546f5d2)
+
+
+**Logic symbol**
+
+![Screenshot 2024-03-20 142746](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/1fbbfe23-249d-4b02-9ecb-adb9f3bfcadd)
+
+
+**RTL realization Output:**
+
+
+![Screenshot 2024-03-20 142918](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/9317ed9e-de81-4f17-b8f1-465e3b8620cf)
+
+**Result:**
+SUCCESSFULLY EXECUTED
 
 
 
