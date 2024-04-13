@@ -95,7 +95,12 @@ SUCCESSFULLY EXECUTED
 
 ![Screenshot 2024-03-20 134857](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/19aa4eb5-6304-4593-8445-60419b91e60c)
 
-**Logic symbol**
+**Logic symbol & Truthtable**
+
+![Screenshot 2024-04-13 110904](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/78cc47f3-d3bd-48ab-ae1b-ba951d7f4e54)
+
+
+**RTL**
 
 ![Screenshot 2024-03-20 135711](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/d0bc0b9a-baad-492a-8b49-1233e3a6e548)
 
@@ -113,7 +118,13 @@ SUCCESSFULLY EXECUTED
 
 ![Screenshot 2024-03-20 141508](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/2618d33b-d7dc-4ef2-a24b-e9c7a8747b52)
 
-**Logic symbol**
+
+**Logic symbol & Truthtable**
+
+![image](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/3ad6e667-7ffb-4e37-ab00-177691246f37)
+
+
+**RTL**
 
 ![Screenshot 2024-03-20 140750](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/5a58aa29-ba6d-4090-8ef1-ba3c3de3f0da)
 
@@ -130,14 +141,17 @@ SUCCESSFULLY EXECUTED
 
 ![Screenshot 2024-03-20 142736](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/1ec3698b-44ae-4af2-9dee-ce011546f5d2)
 
+**Logic symbol & Truthtable**
 
-**Logic symbol**
+![Screenshot 2024-04-13 111152](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/8c9675f6-e7e9-4b12-a23f-880e0a2f24d6)
+
+
+**RTL**
 
 ![Screenshot 2024-03-20 142746](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/1fbbfe23-249d-4b02-9ecb-adb9f3bfcadd)
 
 
 **RTL realization Output:**
-
 
 ![Screenshot 2024-03-20 142918](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/9317ed9e-de81-4f17-b8f1-465e3b8620cf)
 
@@ -150,7 +164,11 @@ SUCCESSFULLY EXECUTED
  
 ![Screenshot 2024-03-20 143504](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/c40761e8-44f0-485c-a5b2-0f4c46860a3f)
 
-**Logic symbol**
+**Logic symbol & Truthtable**
+
+![Screenshot 2024-04-13 111458](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/5b73847a-c947-4bf6-9260-918514be1eb7)
+
+**RTL**
 
 ![Screenshot 2024-03-20 143445](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/2ad3a83c-f8f9-4e58-ab9b-96ff3584f3eb)
 
@@ -167,8 +185,11 @@ SUCCESSFULLY EXECUTED
 
 ![Screenshot 2024-03-21 152202](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/d32f2a6c-9da0-41cd-8f63-11b611bddd5e)
 
+**Logic symbol & Truthtable**
 
-**Logic symbol**
+![Screenshot 2024-04-13 111643](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/dfc4c479-cdd6-4cb6-9861-462c61bbabc9)
+
+**RTL**
 
 ![Screenshot 2024-03-21 152213](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/8b90ad0a-b71f-4bff-9a9d-49e575202be5)
 
@@ -187,12 +208,14 @@ SUCCESSFULLY EXECUTED
 
 ![Screenshot 2024-03-21 151352](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/39b84519-e8aa-42dd-8691-66400d391556)
 
+**Logic symbol & Truthtable**
 
-**Logic symbol**
+![Screenshot 2024-04-13 111651](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/01cd1733-d6db-4c78-80c5-9e868de2e0e0)
+
+
+**RTL**
 
 ![Screenshot 2024-03-21 151335](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/a45a815c-7f70-4ccd-a56f-7a117ecac277)
-
-
 
 **RTL realization Output:**
 
