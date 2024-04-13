@@ -1,5 +1,7 @@
-### study-of-basic-gates
+### EX-01
+<P align='center'><b>IMPLEMENTATION OF BASIC LOGIC GATES</b>
 
+### DATE:
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
