@@ -195,8 +195,7 @@ SUCCESSFULLY EXECUTED
 
 **RTL realization Output:**
 
-![Screenshot 2024-03-21 153531](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/7d9217ff-c6db-4ff6-b5ac-a6c97ef63ca0)
-
+![Screenshot 2024-04-13 111945](https://github.com/karuniya2005/study-of-basic-gates/assets/161425769/b03e41db-4a0a-4f67-b9cb-403e8b5182e8)
 
 **Result:**
 SUCCESSFULLY EXECUTED
